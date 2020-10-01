@@ -35,3 +35,4 @@ API_URL=http://localhost:8888 yarn serve
 ## License
 
 Directus is released under the [GPLv3](http://www.gnu.org/copyleft/gpl.html) license. [RANGER Studio LLC](https://rangerstudio.com) owns all Directus trademarks and logos on behalf of our project's community. Copyright © 2006-2019, [RANGER Studio LLC](https://rangerstudio.com).
+// Amazing project.
